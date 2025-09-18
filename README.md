@@ -1,7 +1,7 @@
 # Altium Designer – Advanced PCB Design Platform
 
 <p align="center">
-  <img src="https://www.altium.com/sites/default/files/2021-10/AltiumDesigner_Icon_256x256.png" alt="Altium Designer Logo"/>
+  <img src="https://i.ytimg.com/vi/QCXRodygrhc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBqjvaUCKvzrh6vmV0y7t92dVOEdQ" alt="Altium Designer Logo"/>
 </p>
 
 <p align="center">
